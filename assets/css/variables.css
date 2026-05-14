@@ -1,0 +1,24 @@
+:root {
+  --color-bg-primary: #050913;
+  --color-bg-secondary: #0a1224;
+  --color-bg-card: #0e1a33;
+  --color-blue-glow: #00c2ff;
+  --color-blue-strong: #2fe1ff;
+  --color-yellow-glow: #ffe84a;
+  --color-yellow-strong: #ffd100;
+  --color-text-primary: #f0f8ff;
+  --color-text-secondary: #9fb2d7;
+  --color-border: rgba(0, 194, 255, 0.34);
+  --glow-blue: 0 0 6px #00c2ff, 0 0 18px rgba(0, 194, 255, 0.7), 0 0 32px rgba(0, 194, 255, 0.35);
+  --glow-yellow: 0 0 8px #ffe84a, 0 0 18px rgba(255, 232, 74, 0.7);
+  --font-display: "Oxanium", sans-serif;
+  --font-body: "Rajdhani", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --menu-width: 260px;
+}

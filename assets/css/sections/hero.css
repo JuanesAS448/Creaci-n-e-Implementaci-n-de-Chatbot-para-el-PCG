@@ -1,0 +1,9 @@
+.hero { position: relative; overflow: hidden; }
+.hero-actions { display: flex; gap: 12px; margin-top: 12px; }
+.hero-bg { position: absolute; inset: 0; opacity: 0.2; pointer-events: none; }
+.hero p {
+  color: var(--color-text-secondary);
+  max-width: 68ch;
+  border-left: 2px solid rgba(255, 232, 74, 0.8);
+  padding-left: 12px;
+}
