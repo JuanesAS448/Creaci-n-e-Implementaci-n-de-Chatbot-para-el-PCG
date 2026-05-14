@@ -8,7 +8,8 @@
   [![License](https://img.shields.io/badge/License-Academic-green?style=for-the-badge)](LICENSE)
   [![Stack](https://img.shields.io/badge/Stack-Vanilla%20JS%20|%20HTML%20|%20CSS-yellow?style=for-the-badge)](https://developer.mozilla.org/)
 
-  **Transformando la gestión universitaria mediante innovación y tecnología.**
+**Transformando la gestión universitaria mediante innovación y tecnología.**
+
 </div>
 
 ---
@@ -24,14 +25,14 @@
 
 ## 🚀 Características Principales
 
-| Módulo | Descripción |
-| :--- | :--- |
+| Módulo                          | Descripción                                                               |
+| :------------------------------ | :------------------------------------------------------------------------ |
 | **📢 Gestión de Convocatorias** | Publicación, requisitos y seguimiento de procesos académicos y laborales. |
-| **👥 Usuarios y Roles** | Control de acceso granular para administradores, docentes y estudiantes. |
-| **📄 Validación de Documentos** | Carga y verificación inteligente de requisitos documentales. |
-| **🔍 Seguimiento (Tracking)** | Monitoreo en tiempo real de cada etapa de las postulaciones. |
-| **📊 Panel Administrativo** | Dashboard con analítica, informes y métricas institucionales. |
-| **🤖 IA Chatbot** | Soporte interactivo bilingüe (ES/EN) con base de conocimiento propia. |
+| **👥 Usuarios y Roles**         | Control de acceso granular para administradores, docentes y estudiantes.  |
+| **📄 Validación de Documentos** | Carga y verificación inteligente de requisitos documentales.              |
+| **🔍 Seguimiento (Tracking)**   | Monitoreo en tiempo real de cada etapa de las postulaciones.              |
+| **📊 Panel Administrativo**     | Dashboard con analítica, informes y métricas institucionales.             |
+| **🤖 IA Chatbot**               | Soporte interactivo bilingüe (ES/EN) con base de conocimiento propia.     |
 
 ---
 
@@ -39,10 +40,10 @@
 
 El proyecto se destaca por su ligereza y alto rendimiento al no utilizar frameworks externos pesados:
 
-*   **Frontend**: HTML5 Semántico, CSS3 (Variables, Flexbox, Grid, Animaciones LED).
-*   **Lógica**: JavaScript Vanilla (ES Modules).
-*   **Inteligencia Artificial**: API de Google Gemini 1.5 Flash (REST integration).
-*   **Diseño**: Tipografías Orbitron, Exo 2 y JetBrains Mono.
+- **Frontend**: HTML5 Semántico, CSS3 (Variables, Flexbox, Grid, Animaciones LED).
+- **Lógica**: JavaScript Vanilla (ES Modules).
+- **Inteligencia Artificial**: API de Google Gemini 1.5 Flash (REST integration).
+- **Diseño**: Tipografías Orbitron, Exo 2 y JetBrains Mono.
 
 ---
 
@@ -68,6 +69,7 @@ graph TD
 Para ejecutar el proyecto localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
+
     ```bash
     git clone https://github.com/tu-usuario/uni-sigea.git
     cd uni-sigea
@@ -75,11 +77,12 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 2.  **Configurar Variables de Entorno:**
     Crea un archivo `config/env.js` basado en el siguiente ejemplo:
+
     ```javascript
     window.__ENV__ = {
       GEMINI_API_KEY: "TU_API_KEY_AQUI",
       GEMINI_MODEL: "gemini-1.5-flash-latest",
-      GEMINI_API_URL: "https://generativelanguage.googleapis.com/v1beta/models"
+      GEMINI_API_URL: "https://generativelanguage.googleapis.com/v1beta/models",
     };
     ```
 
@@ -92,20 +95,22 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 ---
 
 ## 📜 Compromiso Ético
+
 **"Soy LIBRE, AUTÓNOMO Y RESPONSABLE a través del diálogo y la construcción."**
 
 UNI SIGEA integra la filosofía de la **Persona Transhumana**, promoviendo el desarrollo humano, la autonomía y la transformación social positiva a través de la tecnología.
 
 ---
 
-## 👨‍💻 Autor
-**Juan Esteban Acosta Santana**  
-*Estudiante de Ingeniería de Sistemas y Computación*  
+## 👨‍💻 Autores
+
+**Juan Esteban Acosta Santana**
+**Julian Mateo Acosta Santana**  
+_Estudiantes de Ingeniería de Sistemas y Computación_  
 Universidad de Cundinamarca (8° semestre)
 
-📫 **Contacto:** [acostasantanajuanesteban@gmail.com](mailto:acostasantanajuanesteban@gmail.com)
-
 ---
+
 <div align="center">
   <sub>© 2026 UNI SIGEA. Proyecto académico con fines de innovación universitaria.</sub>
 </div>
