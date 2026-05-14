@@ -104,8 +104,7 @@ UNI SIGEA integra la filosofía de la **Persona Transhumana**, promoviendo el de
 
 ## 👨‍💻 Autores
 
-**Juan Esteban Acosta Santana y **
-**Julian Mateo Acosta Santana**  
+**Juan Esteban Acosta Santana** y **Julian Mateo Acosta Santana**  
 _Estudiantes de Ingeniería de Sistemas y Computación_  
 Universidad de Cundinamarca (8° semestre)
 
